@@ -13,10 +13,10 @@ void SecondFile() ;
 
 //Задание 1 
 SecondFile();
-float fa = static_cast<float>(a);
-float fb = static_cast<float>(b);
-float fc = static_cast<float>(c);
-float fd = static_cast<float>(d);
+float fa = static_cast<float>(ae);
+float fb = static_cast<float>(be);
+float fc = static_cast<float>(ce);
+float fd = static_cast<float>(de);
  
 float f = fa * (fb+(fc/fd));
 cout << f <<endl;
@@ -45,7 +45,7 @@ cout << diff << endl;
          for (int q =0; q<3;q++)
          {
              array[i][j][q] = rand()%10;
-             a = array[1][1][1];
+             e = array[1][1][1];
              *pa = e;
              cout << array[i][j][q];
              
