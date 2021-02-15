@@ -1,3 +1,0 @@
-C:/Users/79996/Desktop/HomeWork/build-HomeWorkLesson6-Desktop_Qt_5_12_10_MinGW_64_bit-Debug/CMakeFiles/HomeWorkLesson6.dir
-C:/Users/79996/Desktop/HomeWork/build-HomeWorkLesson6-Desktop_Qt_5_12_10_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/79996/Desktop/HomeWork/build-HomeWorkLesson6-Desktop_Qt_5_12_10_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
